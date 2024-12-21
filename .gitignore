@@ -1,0 +1,3 @@
+*.o
+sed_simplified
+.DS_store
